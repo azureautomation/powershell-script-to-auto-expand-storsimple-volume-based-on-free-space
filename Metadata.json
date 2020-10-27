@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 18838,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-auto-expand-storsimple-volume-based-on-free-space/master/AutoExpand-StorSimpleVolume.ps1",
+    "DownloadCount": 612,
+    "Id": "Powershell-script-to-auto-937ca878",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 354,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-3-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Script to auto-expand StorSimple volume based on configurable parameters.This is intended to run as a scheduled task or job on the file server receiving\u00a0the iSCSI volume from StorSimple device.The Input region is where the script input should be entered. Most of that information",
+    "Title": "Powershell script to auto expand StorSimple volume based on free space",
+    "UpdatedDate": "2016-4-1T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-auto-expand-storsimple-volume-based-on-free-space",
+    "UserTags": "Powershell, StorSimple, auto-expand StorSimple Volume"
+}
